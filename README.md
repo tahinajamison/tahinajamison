@@ -6,7 +6,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/tahinajamison/osticket-prereqs)
 - <b>Microsoft Azure</b>
   - [Configuring A Virtual Machine](https://github.com/tahinajamison/configure-VM)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tahinajamison/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
