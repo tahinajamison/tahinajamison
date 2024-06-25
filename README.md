@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tahinajamison/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tahinajamison/configure-ad)
+  - [Configuring A Virtual Machine](https://github.com/tahinajamison/configure-VM)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tahinajamison/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
